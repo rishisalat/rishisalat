@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Rishi Salat — Autonomous Driving and Mechanical Engineering">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14274A"/>
+      <stop offset="1" stop-color="#1F3864"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="14" fill="url(#grid)"/>
+
+  <!-- road with lane markings, a nod to autonomous driving -->
+  <g opacity="0.9">
+    <path d="M820 260 L930 40 L990 40 L1180 260 Z" fill="#ffffff" fill-opacity="0.06"/>
+    <path d="M960 52 L962 80 M965 105 L968 140 M972 170 L977 215 M982 240 L984 260" stroke="#F2C14E" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="1040" cy="120" r="46" fill="none" stroke="#5FB3F9" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="6 7"/>
+    <circle cx="1040" cy="120" r="80" fill="none" stroke="#5FB3F9" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="6 9"/>
+    <circle cx="1040" cy="120" r="7" fill="#5FB3F9"/>
+  </g>
+
+  <text x="64" y="112" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="1">Rishi Salat</text>
+  <rect x="66" y="132" width="88" height="4" rx="2" fill="#F2C14E"/>
+  <text x="64" y="176" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="600" fill="#D6E2F5" letter-spacing="3">AUTONOMOUS DRIVING &amp; MECHANICAL ENGINEERING</text>
+  <text x="64" y="214" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" fill="#9FB3D4">M.Eng. student · Hochschule Coburg · Kronach, Germany</text>
+</svg>

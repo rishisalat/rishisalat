@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.DS_Store

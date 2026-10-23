@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Highlights: 3 industry roles, 5-axis CNC machine commissioned, 1,200-image dataset built, 80% test coverage gate">
+  <style>
+    .n { font: 700 40px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #1F3864; }
+    .l { font: 600 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #3D4A5C; letter-spacing: .3px; }
+    .s { font: 400 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #6B7684; }
+  </style>
+  <g>
+    <rect x="2" y="2" width="282" height="146" rx="12" fill="#F4F7FC" stroke="#D5DEEC"/>
+    <rect x="2" y="2" width="6" height="146" rx="3" fill="#F2C14E"/>
+    <text x="30" y="62" class="n">3</text>
+    <text x="30" y="96" class="l">industry roles</text>
+    <text x="30" y="120" class="s">automotive · CNC · manufacturing</text>
+  </g>
+  <g transform="translate(306 0)">
+    <rect x="2" y="2" width="282" height="146" rx="12" fill="#F4F7FC" stroke="#D5DEEC"/>
+    <rect x="2" y="2" width="6" height="146" rx="3" fill="#F2C14E"/>
+    <text x="30" y="62" class="n">5-axis</text>
+    <text x="30" y="96" class="l">CNC machine commissioned</text>
+    <text x="30" y="120" class="s">plus 2–3 machines assembled</text>
+  </g>
+  <g transform="translate(612 0)">
+    <rect x="2" y="2" width="282" height="146" rx="12" fill="#F4F7FC" stroke="#D5DEEC"/>
+    <rect x="2" y="2" width="6" height="146" rx="3" fill="#F2C14E"/>
+    <text x="30" y="62" class="n">1,200</text>
+    <text x="30" y="96" class="l">images, 5 classes</text>
+    <text x="30" y="120" class="s">object detection dataset · Jetson</text>
+  </g>
+  <g transform="translate(918 0)">
+    <rect x="2" y="2" width="278" height="146" rx="12" fill="#F4F7FC" stroke="#D5DEEC"/>
+    <rect x="2" y="2" width="6" height="146" rx="3" fill="#F2C14E"/>
+    <text x="30" y="62" class="n">80 %</text>
+    <text x="30" y="96" class="l">test coverage gate</text>
+    <text x="30" y="120" class="s">ROS2 CI pipeline I built</text>
+  </g>
+</svg>

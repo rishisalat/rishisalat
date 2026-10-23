@@ -1,0 +1,35 @@
+[project]
+name = "localization"
+version = "0.1.0"
+description = "Localization component: pose subscriber/publisher"
+authors = [
+    {name = "Rishi Salat", email = "rishisalat1425@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pytest (>=9.0.2,<9.1)",
+    "pytest-cov (>=5.0.0,<6.0.0)",
+    "numpy (>=1.26)",
+    "lark (>=1.1,<2.0)",
+    "pyyaml (>=6.0,<7.0)",
+    "matplotlib (>=3.8)",
+    "filterpy (>=1.4.5)",
+]
+
+[tool.poetry]
+package-mode = true
+packages = [{include = "localization"}]
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.7.0"
+
+[tool.pytest.ini_options]
+addopts = "--cov=localization --cov-report=term-missing --cov-fail-under=80"
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"
+line_length = 100
