@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rishisalat.github.io/rishisalat/"><img src="https://img.shields.io/badge/Portfolio-rishisalat.github.io-F2A93B?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:rishisalat1425@gmail.com"><img src="https://img.shields.io/badge/Email-rishisalat1425%40gmail.com-1F3864?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="resume/Rishi_Salat_CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-1F3864?logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
   <img src="https://img.shields.io/badge/Location-Kronach%2C_Germany-1F3864?logo=googlemaps&logoColor=white" alt="Location">
@@ -20,6 +21,8 @@
 ---
 
 ## About
+
+> 🌐 **Portfolio:** [rishisalat.github.io/rishisalat](https://rishisalat.github.io/rishisalat/) · my projects, results and certificates in one place.
 
 I'm a mechanical engineer studying **autonomous driving** at Hochschule Coburg. Before my master's I worked hands-on with machines and vehicles: assembling and commissioning CNC machines and diagnosing and repairing cars. Now I'm adding robotics, ROS2, automated testing and computer vision to that background.
 
